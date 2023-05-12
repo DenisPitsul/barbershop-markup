@@ -707,9 +707,6 @@ body {
   display: flex;
 }
 
-.contact-us-left {
-}
-
 .contact-us-left-title {
   font-weight: 700;
   font-size: 42px;
@@ -905,7 +902,7 @@ body {
   line-height: 1.36;
   letter-spacing: 0.2em;
   color: var(--title-color);
-  transition: all var(--transition-duration;
+  transition: all var(--transition-duration);
 }
 
 .footer-link:hover,
